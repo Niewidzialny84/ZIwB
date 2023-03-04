@@ -1,4 +1,4 @@
-# Gdzie można studiować Informatykę w Procesach biznesowych
+# Informatyka w procesach biznesowych
 
 [Charakterystyka specjalności](./charakterystyka.md)
 [Do pobrania](./dopobrania.md)
