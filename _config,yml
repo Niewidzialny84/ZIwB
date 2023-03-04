@@ -1,6 +1,0 @@
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme 
-title: Informatyka w Procesach biznesowych
-description: Gdzie można studiować Informatykę w Procesach biznesowych
-show_downloads: false
