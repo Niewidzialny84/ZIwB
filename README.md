@@ -1,5 +1,3 @@
-# ziwb.github.io
-
-Repozytorium na zajęcia: Zastosowanie Informatyki w biznesie
+# ZIwB - Zastosowanie Informatyki w biznesie
 
 
